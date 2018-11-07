@@ -25,7 +25,7 @@ If you click take a screen shot you will begin taking a screenshot. But, if you 
 ![hotkeys](https://github.com/GriffenScheel/LightshotTutorial/blob/master/Screenshot_5.png?raw=true)
 
 ---
-**STEP 3**: Once you're done looking through the settings go ahead and close the options window and click the hot key you set for taking a screen shot. If you didn't go through the options the default hotkey to take a screenshot is the printscreen key.
+**STEP 3**: Once you're done looking through the settings go ahead and close the options window and click the hot key you set for taking a screen shot. If you didn't go through the options the default hotkey to take a screenshot is the Prnt Scrn key.
 Your screen should go gray and a text saying 'Select Area' should be following your mouse. Click and drag to make the area you want to be included in your screenshot. Once you have done this your screen should look something like this.
 
 ![screenshottedscreen](https://static.filehorse.com/screenshots/imaging-and-digital-photo/lightshot-screenshot-01.jpg)
