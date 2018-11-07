@@ -34,6 +34,7 @@ It also has a undo button just in case you add something on mistake.
 
 The bar on the bottom lets you save, print, copy, and delete the image. It allows you to quickly upload the image to prntscrn.com and copy its short cut link for people to click on and see the image in their own web browser. 
 Also it allows you to share the screenshot on social networks as well as search google for images that look related to your screenshot.
+
 ---
 That's it for the Lightshot tutorial. We went through how to download and take a screenshot using Lightshot. We also went through how to go through the settings and mentioned the different little features lightshot gives to mess with your screenshot. 
 
