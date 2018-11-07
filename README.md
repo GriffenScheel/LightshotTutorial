@@ -9,7 +9,7 @@ Click this link (https://app.prntscr.com/en/download.html) and choose your OS.
 Go into where you saved the setup and run it. When you're done you should see this screen.
 
 ![finishscreen](https://github.com/GriffenScheel/LightshotTutorial/blob/master/Screenshot_1.png?raw=true)
-
+---
 
 **STEP 2**:After that go to the bottom right hand corner of your monitor and click the arrow going up.
 You will then see this screen.
@@ -19,7 +19,7 @@ You will then see this screen.
 If you click take a screen shot you will begin taking a screenshot. But, if you would like to change up some settings click 'Options'.
 
 ![hotkeys](https://github.com/GriffenScheel/LightshotTutorial/blob/master/Screenshot_5.png?raw=true)
-
+---
 **STEP 3**: Once you're done looking through the settings go ahead and close the options window and click the hot key you set for taking a screen shot. If you didn't go through the options the default hotkey to take a screenshot is the printscreen key.
 Your screen should go gray and a text saying 'Select Area' should be following your mouse. Click and drag to make the area you want to be included in your screenshot. Once you have done this your screen should look something like this.
 
@@ -31,7 +31,7 @@ It also has a undo button just in case you add something on mistake.
 
 The bar on the bottom lets you save, print, copy, and delete the image. It allows you to quickly upload the image to prntscrn.com and copy its short cut link for people to click on and see the image in their own web browser. 
 Also it allows you to share the screenshot on social networks as well as search google for images that look related to your screenshot.
-
+---
 That's it for the Lightshot tutorial. We went through how to download and take a screenshot using Lightshot. We also went through how to go through the settings and mentioned the different little features lightshot gives to mess with your screenshot. 
 
 
