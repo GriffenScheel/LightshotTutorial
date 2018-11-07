@@ -8,6 +8,7 @@ Purpose: Show how to download and use Lightshot
 Audience: Anyone looking for a free easy program that has some nice features to help with screenshotting
 
 **STEP 1**: Download and setup Lightshot
+
 Click this link (https://app.prntscr.com/en/download.html) and choose your OS.
 Go into where you saved the setup and run it. When you're done you should see this screen.
 
