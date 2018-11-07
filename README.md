@@ -26,12 +26,13 @@ Your screen should go gray and a text saying 'Select Area' should be following y
 ![screenshottedscreen](https://static.filehorse.com/screenshots/imaging-and-digital-photo/lightshot-screenshot-01.jpg)
 
 You can see Lightshot added two bars around your selection. 
-The bar on the right side of the picture allows you to add things like text, color, highlights, shapes, lines, arrows. 
+The bar on the right side of the picture allows you to add things like text, color, highlights, shapes, lines, and arrows.
+It also has a undo button just in case you add something on mistake. 
 
-The bar on the bottom lets you save, print, copy, and delete the image. It allows you to upload the image to prntscrn.com and get a short cut link for people to click on and see the image in their web browser. 
+The bar on the bottom lets you save, print, copy, and delete the image. It allows you to quickly upload the image to prntscrn.com and copy its short cut link for people to click on and see the image in their own web browser. 
 Also it allows you to share the screenshot on social networks as well as search google for images that look related to your screenshot.
 
-Thats it for the Lightshot tutorial. We went through how to download and take a screenshot using Lightshot. We also went through how to go through the settings and mentioned the different little features lightshot gives to mess with our screenshot. 
+That's it for the Lightshot tutorial. We went through how to download and take a screenshot using Lightshot. We also went through how to go through the settings and mentioned the different little features lightshot gives to mess with your screenshot. 
 
 
 
