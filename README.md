@@ -1,7 +1,10 @@
 # LightshotTutorial
-Title: How to take a screenshot in Lightshot
+Title: How to take a screenshot in Lightshot  
+
 Author: Griffen Scheel
+
 Purpose: Show how to download and use Lightshot
+
 Audience: Anyone looking for a free easy program that has some nice features to help with screenshotting
 
 **STEP 1**: Download and setup Lightshot
