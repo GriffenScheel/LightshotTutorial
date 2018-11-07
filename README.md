@@ -16,7 +16,7 @@ You will then see this screen.
 
 ![optionsscreen](https://github.com/GriffenScheel/LightshotTutorial/blob/master/Screenshot_3.png?raw=true)
 
-If you click take a screen shot you will beging taking a screenshot. But, if you would like to change up some settings click 'Options'.
+If you click take a screen shot you will begin taking a screenshot. But, if you would like to change up some settings click 'Options'.
 
 ![hotkeys] (ttps://github.com/GriffenScheel/LightshotTutorial/blob/master/Screenshot_4.png?raw=true)
 
