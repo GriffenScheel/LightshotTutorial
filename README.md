@@ -15,7 +15,7 @@ Go into where you saved the setup and run it. When you're done you should see th
 
 ---
 
-**STEP 2**:After that go to the bottom right hand corner of your monitor and click the arrow going up.
+**STEP 2**: After that go to the bottom right hand corner of your monitor and click the arrow going up.
 You will then see this screen.
 
 ![optionsscreen](https://github.com/GriffenScheel/LightshotTutorial/blob/master/Screenshot_3.png?raw=true)
